@@ -1,0 +1,6 @@
+.chat-messages-container {
+  flex-grow: 1; /*grow so that the container takes the entore space and pushes the input field to bottom*/
+  margin-top: 20px;
+  overflow: scroll;
+  scrollbar-width: none;
+}
